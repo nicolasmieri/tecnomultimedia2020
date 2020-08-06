@@ -1,5 +1,7 @@
 
 
+Hola profesor, rehice el readme y corregí el diagrama de flujos como me lo remarcaste, pero lamentablemente no pude aplicar correctamente la redimensión de pantallas a mi trabajo. Me intentó ayudar un compañero y asistí a la clase de consultas, pero lo que me cuesta esta materia sumado a algunas situaciones laborales y familiares que estoy atravesando hicieron que se me haga mucho mas complicado de lo normal, y no me terminó saliendo. Espero que a pesar de eso mi trabajo esté aceptable, un saludo
+
 Pantalla 1: Pantalla inicial de la aventura
 
 Pantalla 2: Dorothy y Totó son arrastrados hasta Oz por un terrible tornado
